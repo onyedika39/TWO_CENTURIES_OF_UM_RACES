@@ -91,7 +91,7 @@ jupyter notebook
 
 
 
-Future Improvements
+## Future Improvements
 
 Implement predictive modeling for race outcomes.
 
